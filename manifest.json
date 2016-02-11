@@ -1,0 +1,22 @@
+
+{
+	  "name": "InviteThemAll",
+		    "version": "0.0.1",
+		      "manifest_version": 2,
+		        "description": "Invite all Friends in Fb to Fanpage",
+			  "homepage_url": "http://felixjosemon.github.io/",
+			    "background": {
+				        "scripts": [
+						      "background.js"
+						          ],
+					    "persistent": true
+						      },
+			      "browser_action": {
+				          "default_title": "FB!"
+						    },
+			        "permissions": [
+					    "https://*/*",
+				    "http://*/*",
+				        "tabs"
+						  ]
+}
