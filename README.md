@@ -1,5 +1,5 @@
 # InviteThemAll
-A Chrome Extension To invite all your friends to Fanpage
+A Chrome Extension To invite all your Fb friends to Fanpage
 
 Go to FB page to which you want to invite your Friends
 
